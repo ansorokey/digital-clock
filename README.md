@@ -7,6 +7,7 @@ This projectr was made by following [How To Create Digital Clock Using HTML CSS 
 - JavaScript, HTML, CSS
 - Asynchronous
 - DOM Manipulation
+- Date Objects
 
 ## How To Use
 The clock will display the current time.
